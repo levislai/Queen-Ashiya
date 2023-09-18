@@ -39,13 +39,13 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.owner = ['Didula Rashmika']
+global.owner = ['✯᚛ƐRRφR᚜⁴0⁴乄᚛・']
 
 global.premium = ['💗Queen Ashiya🧚']
 
-global.ownernomer = '94741671668'
+global.ownernomer = '22545752448'
 
-global.ownername = 'Didula Rashmika'
+global.ownername = '✯᚛ƐRRφR᚜⁴0⁴乄᚛・'
 
 global.botname = '💗Queen Ashiya🧚'
 
@@ -65,7 +65,7 @@ global.author = '💗Queen Ashiya🧚'
 
 global.sessionName = 'session'
 
-global.prefa = ['','!','.','❄','🖤','☃']
+global.prefa = ['#']
 
 global.sp = '◈'
 
